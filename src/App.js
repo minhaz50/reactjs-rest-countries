@@ -1,9 +1,10 @@
 import "./App.css";
+import Countries from "./component/Countries/Countries";
 
 function App() {
   return (
     <div className="App">
-      <h2>I am back</h2>
+      <Countries></Countries>
     </div>
   );
 }
