@@ -1,0 +1,9 @@
+.country {
+  background-color: white;
+  border: 1px solid wheat;
+  margin: 10px;
+  padding: 10px;
+}
+.country img {
+  width: 150px;
+}
